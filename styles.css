@@ -13,13 +13,14 @@ body {
   font-weight: bold;
 }
 #hero {
-  padding: 48px 16px;
+  padding: 52px 20px;
   background: #eef2ff;
   text-align: center;
 }
 .headline {
   font-size: 28px;
   margin-bottom: 8px;
+  text-align: center;
 }
 .sub {
   color: #555;
